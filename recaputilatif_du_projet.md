@@ -1,4 +1,4 @@
-#Récapitulatif + Informations sur notre projet.
+# Récapitulatif + Informations sur notre projet.
 ## But du projet
 Créer un **RPG (en 2D) avec Pygame**.  
 Nous utiliserons des ressources **libres, prévues pour,** trouvées sur internet.
