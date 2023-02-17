@@ -4,8 +4,7 @@ Créer un **RPG (en 2D) avec Pygame**.
 Nous utiliserons des ressources **libres, prévues pour,** trouvées sur internet.
 
 ## Vocabulaire
-- **DyNacrest:** Nom du RPG (Généré aléatoirement sur le site:https://fr.fantasynamegenerators.com/noms-de-jeux-vid%C3%A9os.php)
-- **Repo:** Un dossier sur Github contenant 1 projet
+- **The Divine TEAR :** Nom du RPG 
 - **Tick:** 1 tick correspond à 1 execution de la boucle de jeu
 - **TPS:** (Tick Par Seconde), correspond au nombre de fois que la boucle de jeu s'execute
 - **Event/Évenement:** Qqch déclenché par une action de la personne sur son ordinateur ou directement en jeu.
@@ -71,3 +70,5 @@ Nous utiliserons des ressources **libres, prévues pour,** trouvées sur interne
 - Téléportations d'une map à l'autre (Anthoni)
 - Création des maps des téléportions (Davidson)
 ## ps:les taches que j'ai atribuer sont temporaires vous pouvez changer de tache si vous le voulez
+# Sources 
+
