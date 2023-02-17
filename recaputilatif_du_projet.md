@@ -64,7 +64,7 @@ Nous utiliserons des ressources **libres, prévues pour,** trouvées sur interne
 - Musiques (kedmael)
 - Classe ennemi (Davidson)
 - Menu (Davidson)
-- Histoire (Davidson)
+- Histoire (kedmael)
 - Choisir les sons et bruitages à ajouter au projet (kedmael)
 - Créer des tuiles animés (Davidson)
 - S'occuper de l'attaque et des animations (Anthoni)
