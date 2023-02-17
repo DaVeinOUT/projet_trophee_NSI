@@ -1,6 +1,12 @@
-Contexte : Le royaume est plongé dans une guerre entre les différentes races qui le peuplent. Les elfes, les nains, les humains et les orcs se battent pour le contrôle des terres fertiles, des mines de métaux précieux et des sources magiques qui abondent dans cette région. Les tensions sont vives et la situation est très instable.
+# Histoire
 
-Personnages principaux :
+
+
+
+## Contexte : 
+Le royaume est plongé dans une guerre entre les différentes races qui le peuplent. Les elfes, les nains, les humains et les orcs se battent pour le contrôle des terres fertiles, des mines de métaux précieux et des sources magiques qui abondent dans cette région. Les tensions sont vives et la situation est très instable.
+
+## Personnages principaux :
 
 Aiden : Le personnage principal, fils d'un roi humain et d'une reine elfe. Il est capable de manier à la fois l'épée et la magie, et est devenu le chef de l'armée qui lutte pour la paix.
 Gilda : Une naine forgeronne, capable de créer des armes légendaires.
