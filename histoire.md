@@ -1,6 +1,6 @@
 JEU
 
-Titre : La Larme Divine
+Titre : The Divine Tear
 
 Contexte : Dans un monde où les dieux ont été bannis par les mortels, une malédiction se répand et détruit tout sur son passage. Le fléau a atteint la princesse du royaume d'Arvania, qui est tombée gravement malade. Les prêtres du royaume ont révélé qu'une Larme Divine pourrait sauver la princesse. Cependant, la larme est gardée dans un ancien temple, protégé par des pièges mortels et des gardiens puissants.
 
