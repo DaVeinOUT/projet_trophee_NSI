@@ -47,25 +47,25 @@ Nous utiliserons des ressources **libres, prévues pour,** trouvées sur interne
     - **main.py** (Fichier principal, celui que l'on doit executer)
     
 ## Tâches a faire!
-- Hitboxs (DAVIDSON)
+- Hitboxs (DAVIDSON) fait 
 - Modification de la carte (Anthoni) + Dimensions de la carte a bonne échelle (en tuiles), des petites maps etc.
 - Ajouter des bruitages/Musiques + implémentation en algo/python (Anthoni)
-- Masques (Davidson)
-- Collisions (Davidson)
+- Masques (Davidson) fait 
+- Collisions (Davidson) fait 
 - Créer une map simple (1 seul tile) (Felipe)
 - Ajouter des tiles a la map (Felipe)
 - Permettre aux maps de sortir de l'écran (Anthoni)
 - Ajouter un personnage sans animation (Anthoni)
 - Faire une map de test en 4 couches (Anthoni)
-- Coder les deplacement du personnage (Davidson)
+- Coder les deplacement du personnage (Davidson) fait 
 - Trouver un générateur de map (Felipe)
 - S'adapter au générateur de map (Felipe)
 - Musiques (kedmael)
-- Classe ennemi (Davidson)
+- Classe ennemi (Anthoni)
 - Menu (Davidson)
 - Histoire (kedmael)
 - Choisir les sons et bruitages à ajouter au projet (kedmael)
-- Créer des tuiles animés (Davidson)
+- Créer des tuiles animés (Davidson) fait 
 - S'occuper de l'attaque et des animations (Anthoni)
 - Téléportations d'une map à l'autre (Anthoni)
 - Création des maps des téléportions (Davidson)
